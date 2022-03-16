@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PROYECTOdi</name>
+    </assembly>
+    <members>
+        <member name="T:PROYECTOdi.DataSet1">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet1.DataTable1DataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet1.DataTable1Row">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet1.DataTable1RowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet2">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet2.DataTable2DataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet2.DataTable2Row">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.DataSet2.DataTable2RowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.AniadirCE.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.AniadirCE.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.AniadirCE.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.AniadirRA.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.AniadirRA.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.AniadirRA.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.Examen.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Examen.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Examen.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.Generar_Informes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Generar_Informes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Generar_Informes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.GestionarCE.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.GestionarCE.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.GestionarCE.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.GestionarRA.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.GestionarRA.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.GestionarRA.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.InfExamen.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.InfExamen.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.InfExamen.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.Informe.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Informe.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Informe.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.ListaExamenes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.ListaExamenes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.ListaExamenes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.Login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.MENU.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.MENU.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.MENU.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Vistas.Realizar_Examen.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Realizar_Examen.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Vistas.Realizar_Examen.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Gestionar_Preguntas.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Gestionar_Preguntas.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:PROYECTOdi.Gestionar_Preguntas.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:PROYECTOdi.Preguntas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Preguntas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PROYECTOdi.Preguntas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PROYECTOdi.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="T:PROYECTOdi.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:PROYECTOdi.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:PROYECTOdi.Properties.Resources.Culture">
+            <summary>
+              Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+        </member>
+    </members>
+</doc>

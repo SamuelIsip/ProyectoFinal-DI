@@ -1,6 +1,8 @@
-PASOS PARA CORRECTA INSTALACIÓN Y FUNCIONAMIENTO DE LA APLICACIÓN
+Link de la documentación completa: https://drive.google.com/file/d/1S6-dZGUMpIz6q37nDIGOx1OrR8J6dLHQ/view?usp=sharing
 
-IMPORTANTE SEGUIR LOS PASOS, ANTE POSIBLES DUDAS ESCRIBIR POR PAPAS.
+### **PASOS PARA CORRECTA INSTALACIÓN Y FUNCIONAMIENTO DE LA APLICACIÓN**
+
+IMPORTANTE SEGUIR LOS PASOS
 
 1.Instalar la aplicación con el ejecutable "ProyectoDi.exe".
 
@@ -12,7 +14,7 @@ IMPORTANTE SEGUIR LOS PASOS, ANTE POSIBLES DUDAS ESCRIBIR POR PAPAS.
 
 5.Insertar algunos datos por defecto compilando el script "InsertsBD.sql"
 
-6. Ya puede utilizar la aplicación.
+6.Ya puede utilizar la aplicación.
 
 7.Para ver las clases con su código debe descomprimir la carpeta "PROYECTOdi.zip" y ejecutar el archivo "PRINCIPAL.sln"
 
